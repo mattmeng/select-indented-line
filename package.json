@@ -1,9 +1,16 @@
 {
   "name": "select-indented-line",
   "main": "./lib/select-indented-line",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple package to allow ctrl-l to select an indented line instead of the whole line.",
-  "keywords": ["select", "selection", "selected", "indent", "indented", "line"],
+  "keywords": [
+    "select",
+    "selection",
+    "selected",
+    "indent",
+    "indented",
+    "line"
+  ],
   "activationCommands": {
     "atom-workspace": "select-indented-line:select-line"
   },
